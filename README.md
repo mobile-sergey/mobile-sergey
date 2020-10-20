@@ -22,4 +22,4 @@ Static Data
 
 [<img src="https://github-readme-stats.vercel.app/api?username=itlavs" width="400"/>](https://github-readme-stats.vercel.app/api?username=itlavs)
 
-[<img src="https://github.com/itlavs/itlavs/blob/main/code.gif?raw=true" width="400"/>](https://github.com/itlavs/itlavs/blob/main/code.gif?raw=true)
+[<img src="https://github.com/itlavs/itlavs/blob/main/code.gif?raw=true" width="400" align="right"/>](https://github.com/itlavs/itlavs/blob/main/code.gif?raw=true)
