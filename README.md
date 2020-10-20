@@ -1,3 +1,5 @@
+# Quick Brief
+
 - 🌱 15 years in IT. Now develop Android/iOS apps, and teach IT
 - 🎯 My primary focus Android and iOS native development
 - 🎓 I want to learn all popular mobile technologies
