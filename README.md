@@ -15,6 +15,8 @@ Quick Brief
 
 Static Data
 ---
-<img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itlavs&langs_count=8&layout=compact>
-<img width="250" src="https://github-readme-stats.vercel.app/api?username=itlavs>
-<img src="https://github.com/itlavs/itlavs/blob/main/code.gif?raw=true" width="250" height="160" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itlavs&langs_count=8&layout=compact =250x)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itlavs =250x)
+
+![](https://github.com/itlavs/itlavs/blob/main/code.gif?raw=true =250x160)
