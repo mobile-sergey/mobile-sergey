@@ -6,9 +6,9 @@
 - 🎓 I want to learn all popular mobile technologies
 
 ##📫 Connect with me
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">](https://t.me/itlavs)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">](https://facebook.com/itlavs)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/itlavs/)
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">](https://t.me/itlavs)
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">](https://facebook.com/itlavs)
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/itlavs/)
 ![](https://visitor-badge.glitch.me/badge?page_id=itlavs)
 <img align="right" alt="GIF" src="https://github.com/itlavs/itlavs/blob/main/code.gif?raw=true" width="500" height="320" />
 
