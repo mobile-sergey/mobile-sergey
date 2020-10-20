@@ -1,12 +1,12 @@
 ### Hi there 🙂
-<img align="right" alt="GIF" src="https://github.com/itlavs/itlavs/blob/main/code.gif?raw=true" width="500" height="320" />
+![](https://github.com/itlavs/itlavs/blob/main/code.gif?raw=true)
 
 ## Quick Brief
 - 🌱 15 years in IT. Now develop Android/iOS apps, and teach IT
 - 🎯 My primary focus Android and iOS native development
 - 🎓 I want to learn all popular mobile technologies
 
-##📫 Connect with me
+## 📫 Connect with me
 [![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg")](https://t.me/itlavs)
 [![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg")](https://facebook.com/itlavs)
 [![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg")](https://www.instagram.com/itlavs/)
