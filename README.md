@@ -16,4 +16,4 @@
 
 # Static Data
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itlavs&langs_count=8&layout=compact" height="200"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=itlavs&langs_count=8&layout=compact) [<img src="https://github-readme-stats.vercel.app/api?username=itlavs" height="200"/>](https://github-readme-stats.vercel.app/api?username=itlavs)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itlavs&langs_count=8&layout=compact" height="150"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=itlavs&langs_count=8&layout=compact) [<img src="https://github-readme-stats.vercel.app/api?username=itlavs" height="150"/>](https://github-readme-stats.vercel.app/api?username=itlavs)
