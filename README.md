@@ -16,9 +16,17 @@
 
 # Static Data
 
+
+### Languages
+
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itlavs&langs_count=8&layout=compact" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=itlavs&langs_count=8&layout=compact)
 
+### GitHub Statistics
+
 [<img src="https://github-readme-stats.vercel.app/api?username=itlavs" width="400"/>](https://github-readme-stats.vercel.app/api?username=itlavs)
+
+### Work on week
+
 <!--START_SECTION:waka-->
 ```text
 Java         12 hrs 42 mins  ██████████████░░░░░░░░░░░   56.14 % 
