@@ -20,4 +20,11 @@
 
 [<img src="https://github-readme-stats.vercel.app/api?username=itlavs" width="400"/>](https://github-readme-stats.vercel.app/api?username=itlavs)
 <!--START_SECTION:waka-->
+```text
+Java         12 hrs 42 mins  ██████████████░░░░░░░░░░░   56.14 % 
+Groovy       2 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+JavaScript   2 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+XML          1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python       1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+```
 <!--END_SECTION:waka-->
