@@ -19,11 +19,11 @@
 
 ### Languages
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itlavs&langs_count=8&layout=compact" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=itlavs&langs_count=8&layout=compact)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=8&layout=compact" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=8&layout=compact)
 
 ### GitHub Statistics
 
-[<img src="https://github-readme-stats.vercel.app/api?username=itlavs" width="400"/>](https://github-readme-stats.vercel.app/api?username=itlavs)
+[<img src="https://github-readme-stats.vercel.app/api?username=mobilase" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobilase)
 
 ### Work on week
 
