@@ -19,20 +19,11 @@
 
 ### Languages
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=8&layout=compact" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=8&layout=compact)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=8&layout=compact&count_private=true&hide_title=true" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=8&layout=compact&count_private=true&hide_title=true)
 
 ### GitHub Statistics
 
-[<img src="https://github-readme-stats.vercel.app/api?username=mobilase" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobilase)
+[<img src="https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true)
 
 ### Work on week
-
-<!--START_SECTION:waka-->
-```text
-Java     7 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.40 % 
-Swift    4 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.81 % 
-Cocoa    4 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.95 % 
-XML      2 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Groovy   43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-```
-<!--END_SECTION:waka-->
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mobilase&count_private=true&hide_title=true" width="400"/>](https://github.com/anuraghazra/github-readme-stats)
