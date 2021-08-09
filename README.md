@@ -1,6 +1,6 @@
 # Quick Brief
 
-- 🌱 15 years in IT. Now develop Android/iOS apps, and teach IT
+- 🌱 15 years in IT. Now develop Android/iOS apps
 - 🎯 My primary focus Android and iOS native development
 - 🎓 I want to learn all popular mobile technologies
 
@@ -19,11 +19,11 @@
 
 ### Languages
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=8&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,Arcade_X,FanForFun,SnakeShift,WRW,tceh-android,start-android,javarush-android" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=8&layout=compact&count_private=true&hide_title=true)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=8&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,Arcade_X,FanForFun,SnakeShift,WRW,tceh-android,start-android,javarush-android" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=8&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,Arcade_X,FanForFun,SnakeShift,WRW,tceh-android,start-android,javarush-android)
 
 ### GitHub Statistics
 
 [<img src="https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true)
 
 ### Work on week
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mobilase&count_private=true&hide_title=true" width="400"/>](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mobilase&count_private=true&hide_title=true" width="400"/>](https://github-readme-stats.vercel.app/api/wakatime?username=mobilase&count_private=true&hide_title=true)
