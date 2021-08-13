@@ -18,5 +18,5 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true&show_icons=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true&show_icons=true)
 ### Languages
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android)
-### Work on week
+### Work on previous week
 [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mobilase&count_private=true&hide_title=true&layout=compact" width="400"/>](https://github-readme-stats.vercel.app/api/wakatime?username=mobilase&count_private=true&hide_title=true&layout=compact)
