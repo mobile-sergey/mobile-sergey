@@ -4,6 +4,8 @@
 - 🎯 My primary focus Android and iOS native development
 - 🎓 I want to learn all popular mobile technologies
 
+![](https://visitor-badge.glitch.me/badge?page_id=itlavs)
+
 ### Connect with me
 
 [<img width="32px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/telegram.png">](https://t.me/mobilase)
@@ -16,9 +18,6 @@
 # GitHub Data
 
 [<img src="https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true&show_icons=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true&show_icons=true)
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=itlavs)
 
 # Languages
 
