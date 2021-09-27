@@ -13,11 +13,12 @@
 [<img width="32px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/habr.png">](https://habr.com/ru/users/lavs/posts/)
 [<img width="32px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/email.png">](mailto:lavrov-sergey@yandex.ru)
 
-![](https://visitor-badge.glitch.me/badge?page_id=itlavs)
-
 # GitHub Data
 
 [<img src="https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true&show_icons=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true&show_icons=true)
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=itlavs)
 
 # Languages
 
