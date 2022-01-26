@@ -12,7 +12,7 @@
 
 
 ### Working projects
-| Period | Project | Language | Duration | Store |
+| Period | Project | Language | Coding time | Store |
 | --- | --- | --- | --- | --- |
 | 09.2020 - now | People.Club | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width="15"> Java | [![wakatime](https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/a3e997d6-2fd1-4f4d-80ff-702be275efa2.svg)](https://wakatime.com/@mobilase?rank=mobilase) | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> [Google Play](https://play.google.com/store/apps/details?id=club.people.fitness) |
 | 06.2021 - now | People.Club | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift | [![wakatime](https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/f366ccac-89b1-40b7-a3b2-691e45f7afc4.svg)](https://wakatime.com/@mobilase?rank=mobilase) | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> [App Store](https://apps.apple.com/us/app/people-club/id1538601319)|
