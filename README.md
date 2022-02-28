@@ -33,4 +33,17 @@
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobilase" width="400"/>](https://github-readme-streak-stats.herokuapp.com/?user=mobilase)
 
+### Articles
+| Date | Role | Article | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/chat.png' width="15"> |
+| --- | --- | --- | --- | --- | --- |
+| 28.02.2022 | Сompiler | [От банкоматов до блокчейна: гид по теории и практике платёжных технологий](https://habr.com/ru/article/653805/) | +7 | 11 | 0 |
+| 25.12.2021 | Editor | [Responder Chain, или как правильно передавать действия пользователя между компонентами](https://habr.com/ru/company/psb/blog/597759/) | +8 | 13 | 0 |
+| 09.12.2021 | Сompiler | [Android: как подружить ваше приложение с Google Ассистентом?](https://habr.com/ru/company/psb/blog/594573/) | +11 | 34 | 7 |
+| 09.09.2021 | Editor | [Оптимизируем отображение 10 000 объектов на карте](https://habr.com/ru/company/cian/blog/576732/) | +30 | 70 | 18 |
+| 06.08.2021 | Blogger | [Как я познал «Гармонию» и попробовал программировать на устройстве для иллюстраторов](https://habr.com/ru/article/571588/) | +14 | 21 | 84 |
+| 30.05.2019 | Author | [Пример расчета пенсии IT-шника из Москвы](https://habr.com/ru/post/454178/) | +23 | 61 | 488 |
+| 02.12.2018 | Author | [Начать с React и Bootstrap за 2 дня. День №1](https://habr.com/ru/post/431826/) | +3 | 179 | 42 |
+| 30.10.2018 | Blogger | [Первый в России робот-завод и при чём тут колбаса?](https://habr.com/ru/post/428167/) | +37 | 30 | 122 |
+| 09.03.2015 | Author | [Оптимизация денежных расходов (пересчет в часы и обратно)](https://habr.com/ru/post/252543/) | +13 | 219 | 39 |
+
 [![](https://visitor-badge.glitch.me/badge?page_id=itlavs)](#)
