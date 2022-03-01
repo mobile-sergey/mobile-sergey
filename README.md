@@ -36,7 +36,7 @@
 ### Articles
 | Date | Role | Article | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
-| 28.02.2022 | Сompiler | [От банкоматов до блокчейна: гид по теории и практике платёжных технологий](https://habr.com/ru/article/653805/) | +7 | 11 | 0 |
+| 28.02.2022 | Сompiler | [От банкоматов до блокчейна: гид по теории и практике платёжных технологий](https://habr.com/ru/article/653805/) | +6 | 24 | 1 |
 | 25.12.2021 | Editor | [Responder Chain, или как правильно передавать действия пользователя между компонентами](https://habr.com/ru/company/psb/blog/597759/) | +8 | 13 | 0 |
 | 09.12.2021 | Сompiler | [Android: как подружить ваше приложение с Google Ассистентом?](https://habr.com/ru/company/psb/blog/594573/) | +11 | 34 | 7 |
 | 09.09.2021 | Editor | [Оптимизируем отображение 10 000 объектов на карте](https://habr.com/ru/company/cian/blog/576732/) | +30 | 70 | 18 |
