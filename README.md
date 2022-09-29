@@ -72,7 +72,7 @@
     <td rowspan>02.2022 - 05.2022</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' width="15"> Kotlin</td>
     <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/d61c75fd-8fe3-423b-9d73-d4587840275f.svg?style=social" alt="wakatime"></a></td>
-    <td><a href="https://play.google.com/store/apps/details?id=com.triathlon_center"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play (alpha)</td>
+    <td><a href="https://play.google.com/store/apps/details?id=com.triathlon_center"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</td>
   </tr>
 
   
