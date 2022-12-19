@@ -139,7 +139,7 @@
 ### Articles
 | Date | Role | Article | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
-| 28.11.2022 | Author | [Android vs iOS: кто быстрее покорит Эверест?]([https://habr.com/ru/article/691448/](https://habr.com/ru/article/700550/)) | +34 | 17 | 22 
+| 28.11.2022 | Author | [Android vs iOS: кто быстрее покорит Эверест?](https://habr.com/ru/article/700550/) | +34 | 17 | 22 
 | 06.10.2022 | Author | [Прогулка по изнанке «Спортмастера»: ножками и в приложениях](https://habr.com/ru/article/691448/) | +29 | 28 | 12 
 | 01.09.2022 | Editor | [Как мы уменьшили размер приложения ВТБ Онлайн с многомиллионной аудиторией в 2 раза](https://habr.com/ru/company/vtb/blog/685608/) | +6 | 15 | 46 
 | 28.02.2022 | Сompiler | [От банкоматов до блокчейна: гид по теории и практике платёжных технологий](https://habr.com/ru/article/653805/) | +17 | 95 | 2 |
