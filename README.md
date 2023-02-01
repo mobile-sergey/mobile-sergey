@@ -2,7 +2,7 @@
 - [ ] 🌱 15 years in IT. Now develop Android/iOS apps
 - [ ] 🎯 My primary focus Android and iOS native development
 - [ ] 🎓 I want to learn all popular mobile technologies
-- [ ] 📬 You can contact me by [<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/telegram.png">](https://t.me/mobilase)
+- [ ] 📬 You can contact me by [<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/telegram.png">](https://t.me/mobilase) or 
 [<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/email.png">](mailto:lavrov-sergey@yandex.ru)
 - [ ] ✏️ Sometimes I write posts in
 [<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/habr.png">](https://habr.com/ru/users/lavs/posts/)
