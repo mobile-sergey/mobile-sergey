@@ -3,7 +3,6 @@
 - [ ] 🎯 My primary focus Android and iOS native development
 - [ ] 🎓 I want to learn all popular mobile technologies
 - [ ] 📬 You can contact me by [<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/telegram.png">](https://t.me/mobilase)
-[<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/vk.png">](https://vk.com/mobilase)
 [<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/email.png">](mailto:lavrov-sergey@yandex.ru)
 - [ ] ✏️ Sometimes I write posts in
 [<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/habr.png">](https://habr.com/ru/users/lavs/posts/)
