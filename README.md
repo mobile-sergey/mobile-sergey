@@ -7,8 +7,6 @@
 [<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/email.png">](mailto:lavrov-sergey@yandex.ru)
 - [ ] ✏️ Sometimes I write posts in
 [<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/habr.png">](https://habr.com/ru/users/lavs/posts/)
-[<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/fb.png">](https://facebook.com/mobilase)
-[<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/instagram.png">](https://www.instagram.com/mobilase)
 
 
 
