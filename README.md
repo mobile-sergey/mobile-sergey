@@ -150,7 +150,7 @@
 | 30.10.2018 | Blogger | [Первый в России робот-завод и при чём тут колбаса?](https://habr.com/ru/post/428167/) | +37 | 30 | 122 |
 | 09.03.2015 | Author | [Оптимизация денежных расходов (пересчет в часы и обратно)](https://habr.com/ru/post/252543/) | +13 | 219 | 39 |
 
-### iOS Skill Matrix
+### iOS Skills Matrix
 
 <img width="742" alt="ios" src="https://user-images.githubusercontent.com/1146694/216974125-c8602a41-0c73-4ca2-b0b5-365557c346b6.png">
 
