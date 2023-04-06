@@ -134,6 +134,21 @@
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobilase" width="400"/>](https://github-readme-streak-stats.herokuapp.com/?user=mobilase)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 21 October 2020 - To: 05 April 2023
+
+Total Time: 1,478 hrs 18 mins
+
+Java                       777 hrs 48 mins >>>>>>>>>>>>>------------   52.61 %
+XML                        246 hrs 43 mins >>>>---------------------   16.69 %
+Swift                      154 hrs 55 mins >>>----------------------   10.48 %
+Cocoa                      53 hrs 54 mins  >------------------------   03.65 %
+Kotlin                     49 hrs 24 mins  >------------------------   03.34 %
+Groovy                     44 hrs 7 mins   >------------------------   02.99 %
+Other                      28 hrs 18 mins  -------------------------   01.91 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Articles
