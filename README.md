@@ -133,6 +133,9 @@
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobilase" width="400"/>](https://github-readme-streak-stats.herokuapp.com/?user=mobilase)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Articles
 | Date | Role | Article | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
