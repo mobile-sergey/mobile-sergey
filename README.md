@@ -136,6 +136,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 21 October 2020 - To: 05 April 2023
+
 Total Time: 1,478 hrs 18 mins
 
 Java                       777 hrs 48 mins █████████████------------   52.61 %
