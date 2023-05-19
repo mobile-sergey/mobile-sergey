@@ -157,19 +157,19 @@ Gherkin                    11 hrs 24 mins  -------------------------   00.76 %
 ### Articles
 | Date | Role | Article | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
-| 09.01.2023 | Author | [Я выбрал язык программирования с помощью икигаи, коучей и рефлексии — и это сработало](https://habr.com/ru/post/708532/) | +23 | 88 | 84 |
-| 28.11.2022 | Author | [Android vs iOS: кто быстрее покорит Эверест?](https://habr.com/ru/article/700550/) | +34 | 17 | 22 |
-| 06.10.2022 | Author | [Прогулка по изнанке «Спортмастера»: ножками и в приложениях](https://habr.com/ru/article/691448/) | +29 | 28 | 12 |
+| 09.01.2023 | Author | [Я выбрал язык программирования с помощью икигаи, коучей и рефлексии — и это сработало](https://habr.com/ru/post/708532/) | +23 | 129 | 123 |
+| 28.11.2022 | Author | [Android vs iOS: кто быстрее покорит Эверест?](https://habr.com/ru/article/700550/) | +34 | 22 | 24 |
+| 06.10.2022 | Author | [Прогулка по изнанке «Спортмастера»: ножками и в приложениях](https://habr.com/ru/article/691448/) | +29 | 29 | 12 |
 | 01.09.2022 | Editor | [Как мы уменьшили размер приложения ВТБ Онлайн с многомиллионной аудиторией в 2 раза](https://habr.com/ru/company/vtb/blog/685608/) | +6 | 15 | 46 |
-| 28.02.2022 | Сompiler | [От банкоматов до блокчейна: гид по теории и практике платёжных технологий](https://habr.com/ru/article/653805/) | +17 | 95 | 2 |
-| 25.12.2021 | Editor | [Responder Chain, или как правильно передавать действия пользователя между компонентами](https://habr.com/ru/company/psb/blog/597759/) | +8 | 13 | 0 |
+| 28.02.2022 | Сompiler | [От банкоматов до блокчейна: гид по теории и практике платёжных технологий](https://habr.com/ru/article/653805/) | +17 | 99 | 2 |
+| 25.12.2021 | Editor | [Responder Chain, или как правильно передавать действия пользователя между компонентами](https://habr.com/ru/company/psb/blog/597759/) | +8 | 14 | 0 |
 | 09.12.2021 | Сompiler | [Android: как подружить ваше приложение с Google Ассистентом?](https://habr.com/ru/company/psb/blog/594573/) | +11 | 34 | 7 |
-| 09.09.2021 | Editor | [Оптимизируем отображение 10 000 объектов на карте](https://habr.com/ru/company/cian/blog/576732/) | +30 | 69 | 18 |
-| 06.08.2021 | Blogger | [Как я познал «Гармонию» и попробовал программировать на устройстве для иллюстраторов](https://habr.com/ru/article/571588/) | +14 | 24 | 84 |
+| 09.09.2021 | Editor | [Оптимизируем отображение 10 000 объектов на карте](https://habr.com/ru/company/cian/blog/576732/) | +30 | 74 | 18 |
+| 06.08.2021 | Blogger | [Как я познал «Гармонию» и попробовал программировать на устройстве для иллюстраторов](https://habr.com/ru/article/571588/) | +14 | 25 | 84 |
 | 30.05.2019 | Author | [Пример расчета пенсии IT-шника из Москвы](https://habr.com/ru/post/454178/) | +23 | 61 | 488 |
-| 02.12.2018 | Author | [Начать с React и Bootstrap за 2 дня. День №1](https://habr.com/ru/post/431826/) | +3 | 179 | 42 |
+| 02.12.2018 | Author | [Начать с React и Bootstrap за 2 дня. День №1](https://habr.com/ru/post/431826/) | +3 | 178 | 44 |
 | 30.10.2018 | Blogger | [Первый в России робот-завод и при чём тут колбаса?](https://habr.com/ru/post/428167/) | +37 | 30 | 122 |
-| 09.03.2015 | Author | [Оптимизация денежных расходов (пересчет в часы и обратно)](https://habr.com/ru/post/252543/) | +13 | 219 | 39 |
+| 09.03.2015 | Author | [Оптимизация денежных расходов (пересчет в часы и обратно)](https://habr.com/ru/post/252543/) | +13 | 216 | 39 |
 
 ### iOS Skills Matrix
 
