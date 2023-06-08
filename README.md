@@ -155,7 +155,7 @@ Gherkin                    11 hrs 24 mins  -------------------------   00.75 %
 <!--END_SECTION:waka-->
 
 ### Articles
-| Date | Role | Article | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/chat.png' width="15"> |
+| Date | Role | Article | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
 | 09.01.2023 | Author | [Я выбрал язык программирования с помощью икигаи, коучей и рефлексии — и это сработало](https://habr.com/ru/post/708532/) | +23 | 129 | 123 |
 | 28.11.2022 | Author | [Android vs iOS: кто быстрее покорит Эверест?](https://habr.com/ru/article/700550/) | +34 | 22 | 24 |
@@ -175,4 +175,4 @@ Gherkin                    11 hrs 24 mins  -------------------------   00.75 %
 
 <img width="742" alt="ios" src="https://user-images.githubusercontent.com/1146694/216974125-c8602a41-0c73-4ca2-b0b5-365557c346b6.png">
 
-[![](https://visitor-badge.glitch.me/badge?page_id=itlavs)](#)
+[![](https://visitor-badge.glitch.me/badge?page_id=mobile-sergey.mobile-sergey)](#)
