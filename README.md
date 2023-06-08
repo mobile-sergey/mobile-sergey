@@ -127,7 +127,7 @@
 </table>
 
 ### Statistics
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobile_sergey&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile_sergey&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-sergey&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-sergey&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android)
 
 [<img src="https://github-readme-stats.vercel.app/api?username=mobile_sergey&count_private=true&hide_title=true&show_icons=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobile_sergey&count_private=true&hide_title=true&show_icons=true)
 
