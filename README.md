@@ -129,9 +129,9 @@
 ### Statistics
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-sergey&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-sergey&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=mobile_sergey&count_private=true&hide_title=true&show_icons=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobile_sergey&count_private=true&hide_title=true&show_icons=true)
+[<img src="https://github-readme-stats.vercel.app/api?username=mobile-sergey&count_private=true&hide_title=true&show_icons=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobile-sergey&count_private=true&hide_title=true&show_icons=true)
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobile_sergey" width="400"/>](https://github-readme-streak-stats.herokuapp.com/?user=mobile_sergey)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobile-sergey" width="400"/>](https://github-readme-streak-stats.herokuapp.com/?user=mobile-sergey)
 
 <!--START_SECTION:waka-->
 
@@ -155,7 +155,7 @@ Gherkin                    11 hrs 24 mins  -------------------------   00.75 %
 <!--END_SECTION:waka-->
 
 ### Articles
-| Date | Role | Article | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/chat.png' width="15"> |
+| Date | Role | Article | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
 | 09.01.2023 | Author | [Я выбрал язык программирования с помощью икигаи, коучей и рефлексии — и это сработало](https://habr.com/ru/post/708532/) | +23 | 129 | 123 |
 | 28.11.2022 | Author | [Android vs iOS: кто быстрее покорит Эверест?](https://habr.com/ru/article/700550/) | +34 | 22 | 24 |
