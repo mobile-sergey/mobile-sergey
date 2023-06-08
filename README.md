@@ -92,23 +92,23 @@
   </tr>
       
   <tr>
-    <td rowspan=2><img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/state-of-fitness.webp' width="15"> <b>State of fitness</b><br />Fitness club</td>
+    <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/state-of-fitness.webp' width="15"> <b>State of fitness</b><br />Fitness club</td>
     <td rowspan=2>09.2021 - 12.2021</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
-    <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/6290621b-ece2-4946-82d6-85749c2eded7.svg?style=social" alt="wakatime"></a></td>
+    <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/6290621b-ece2-4946-82d6-85749c2eded7.svg?style=social" alt="wakatime"></a></td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Test Flight (alpha)</td>
   </tr>
   <tr>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width="15"> Java</td>
-    <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/196c39ef-5f27-4d1c-865b-bc44243d7729.svg?style=social" alt="wakatime"></a></td>
+    <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/196c39ef-5f27-4d1c-865b-bc44243d7729.svg?style=social" alt="wakatime"></a></td>
     <td><a href="https://play.google.com/store/apps/details?id=ru.statefitness"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play (alpha)</td>
   </tr>
 
   <tr>
-      <td rowspan=3><img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/ec-online.webp' width="15"> <b>EC-online</b><br />Electrical shop</td>
+      <td rowspan=3><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/ec-online.webp' width="15"> <b>EC-online</b><br />Electrical shop</td>
       <td>01.2022 - 03.2022</td>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' width="15"> Kotlin</td>
-      <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/93cd9e07-3583-4cb1-a112-41b9a5136212.svg?style=social" alt="wakatime"></a></td>
+      <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/93cd9e07-3583-4cb1-a112-41b9a5136212.svg?style=social" alt="wakatime"></a></td>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Development is frozen</td>
   </tr>
   <tr>
@@ -127,11 +127,11 @@
 </table>
 
 ### Statistics
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobilase&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobile_sergey&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile_sergey&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true&show_icons=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobilase&count_private=true&hide_title=true&show_icons=true)
+[<img src="https://github-readme-stats.vercel.app/api?username=mobile_sergey&count_private=true&hide_title=true&show_icons=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobile_sergey&count_private=true&hide_title=true&show_icons=true)
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobilase" width="400"/>](https://github-readme-streak-stats.herokuapp.com/?user=mobilase)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobile_sergey" width="400"/>](https://github-readme-streak-stats.herokuapp.com/?user=mobile_sergey)
 
 <!--START_SECTION:waka-->
 
@@ -155,7 +155,7 @@ Gherkin                    11 hrs 24 mins  -------------------------   00.75 %
 <!--END_SECTION:waka-->
 
 ### Articles
-| Date | Role | Article | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/chat.png' width="15"> |
+| Date | Role | Article | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
 | 09.01.2023 | Author | [Я выбрал язык программирования с помощью икигаи, коучей и рефлексии — и это сработало](https://habr.com/ru/post/708532/) | +23 | 129 | 123 |
 | 28.11.2022 | Author | [Android vs iOS: кто быстрее покорит Эверест?](https://habr.com/ru/article/700550/) | +34 | 22 | 24 |
