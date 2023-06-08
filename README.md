@@ -174,5 +174,3 @@ Gherkin                    11 hrs 24 mins  -------------------------   00.75 %
 ### iOS Skills Matrix
 
 <img width="742" alt="ios" src="https://user-images.githubusercontent.com/1146694/216974125-c8602a41-0c73-4ca2-b0b5-365557c346b6.png">
-
-[![](https://visitor-badge.glitch.me/badge?page_id=mobile-sergey.mobile-sergey)](#)
