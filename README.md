@@ -136,12 +136,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2020 - To: 07 June 2023
+From: 21 October 2020 - To: 08 June 2023
 
-Total Time: 1,514 hrs 26 mins
+Total Time: 1,514 hrs 45 mins
 
-Java                       778 hrs 45 mins █████████████------------   51.42 %
-XML                        249 hrs 40 mins ████---------------------   16.49 %
+Java                       778 hrs 45 mins █████████████------------   51.41 %
+XML                        249 hrs 40 mins ████---------------------   16.48 %
 Swift                      154 hrs 55 mins ███----------------------   10.23 %
 Kotlin                     63 hrs 36 mins  █------------------------   04.20 %
 Cocoa                      53 hrs 54 mins  █------------------------   03.56 %
