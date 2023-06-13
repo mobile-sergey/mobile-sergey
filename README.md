@@ -155,7 +155,7 @@ Gherkin                    11 hrs 24 mins  -------------------------   00.75 %
 <!--END_SECTION:waka-->
 
 ### Articles
-| Date | Role | Article | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile_sergey/mobile_sergey/main/icons/chat.png' width="15"> |
+| Date | Role | Article | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
 | 09.01.2023 | Author | [Я выбрал язык программирования с помощью икигаи, коучей и рефлексии — и это сработало](https://habr.com/ru/post/708532/) | +23 | 129 | 123 |
 | 28.11.2022 | Author | [Android vs iOS: кто быстрее покорит Эверест?](https://habr.com/ru/article/700550/) | +34 | 22 | 24 |
