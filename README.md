@@ -136,7 +136,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2020 - To: 12 June 2023
+From: 21 October 2020 - To: 13 June 2023
 
 Total Time: 1,519 hrs 3 mins
 
@@ -146,7 +146,7 @@ Swift                      154 hrs 55 mins ███----------------------   10.
 Kotlin                     63 hrs 36 mins  █------------------------   04.19 %
 Cocoa                      53 hrs 54 mins  █------------------------   03.55 %
 Groovy                     44 hrs 33 mins  █------------------------   02.93 %
-Other                      28 hrs 44 mins  -------------------------   01.89 %
+Other                      28 hrs 45 mins  -------------------------   01.89 %
 C                          27 hrs 41 mins  -------------------------   01.82 %
 HTML                       19 hrs 50 mins  -------------------------   01.31 %
 Gherkin                    11 hrs 24 mins  -------------------------   00.75 %
