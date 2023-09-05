@@ -136,18 +136,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2020 - To: 02 September 2023
+From: 21 October 2020 - To: 04 September 2023
 
-Total Time: 1,543 hrs 2 mins
+Total Time: 1,543 hrs 11 mins
 
-Java                       786 hrs 54 mins █████████████------------   51.00 %
-XML                        252 hrs 49 mins ████---------------------   16.39 %
+Java                       786 hrs 54 mins █████████████------------   50.99 %
+XML                        252 hrs 49 mins ████---------------------   16.38 %
 Swift                      154 hrs 55 mins ███----------------------   10.04 %
 Kotlin                     76 hrs 59 mins  █------------------------   04.99 %
 Cocoa                      53 hrs 54 mins  █------------------------   03.49 %
 Groovy                     45 hrs 50 mins  █------------------------   02.97 %
 Other                      28 hrs 46 mins  -------------------------   01.87 %
-C                          27 hrs 41 mins  -------------------------   01.79 %
+C                          27 hrs 44 mins  -------------------------   01.80 %
 HTML                       19 hrs 50 mins  -------------------------   01.29 %
 Gherkin                    11 hrs 24 mins  -------------------------   00.74 %
 ```
