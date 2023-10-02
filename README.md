@@ -2,10 +2,10 @@
 - [ ] 🌱 15 years in IT. Now develop Android/iOS apps
 - [ ] 🎯 My primary focus Android and iOS native development
 - [ ] 🎓 I want to learn all popular mobile technologies
-- [ ] 📬 You can contact me by [<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/telegram.png">](https://t.me/mobilase) or 
-[<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/email.png">](mailto:lavrov-sergey@yandex.ru)
+- [ ] 📬 You can contact me by [<img width="20px" src="https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/telegram.png">](https://t.me/mobile_sergey) or 
+[<img width="20px" src="https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/email.png">](mailto:lavrov-sergey@yandex.ru)
 - [ ] ✏️ Sometimes I write posts in
-[<img width="20px" src="https://raw.githubusercontent.com/mobilase/mobilase/main/icons/habr.png">](https://habr.com/ru/users/lavs/posts/)
+[<img width="20px" src="https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/habr.png">](https://habr.com/ru/users/lavs/posts/)
 
 
 
@@ -25,7 +25,7 @@
   
 
   <tr>
-    <td rowspan=2><img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/tng.png' width="15"> <b>TNG</b><br />Tips App</td>
+    <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tng.png' width="15"> <b>TNG</b><br />Tips App</td>
     <td rowspan=2>09.2023 - now</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
     <td>Time was not recorded</td>
@@ -33,40 +33,40 @@
   </tr>
   <tr>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin</td>
-    <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/2218e0ac-b704-4288-b466-efcad9657254.svg?style=social" alt="wakatime"></a></td>
+    <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/2218e0ac-b704-4288-b466-efcad9657254.svg?style=social" alt="wakatime"></a></td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Prepare for Google Play</td>
   </tr>
 
   <tr>
-    <td rowspan=2><img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/norvik.webp' width="15"> <b>Norvik</b><br />Bank</td>
+    <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/norvik.webp' width="15"> <b>Norvik</b><br />Bank</td>
     <td rowspan=2>07.2021 - now</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
-    <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/4013e659-9443-428e-adc7-4e9411ff7850.svg?style=social" alt="wakatime"></a></td>
+    <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/4013e659-9443-428e-adc7-4e9411ff7850.svg?style=social" alt="wakatime"></a></td>
     <td><a href="https://apps.apple.com/ru/app/vatkabank/id725965182"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> App Store</td>
   </tr>
   <tr>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width="15"> Java</td>
-    <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/9cd0b519-ba31-44da-87ca-dd5e6e0f627a.svg?style=social" alt="wakatime"></a></td>
+    <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/9cd0b519-ba31-44da-87ca-dd5e6e0f627a.svg?style=social" alt="wakatime"></a></td>
     <td><a href="https://play.google.com/store/apps/details?id=ru.vtkbank.android"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</td>
   </tr>
   
   
   <tr>
-      <td rowspan=3><img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/premium-chess.png' width="15"> 
+      <td rowspan=3><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/premium-chess.png' width="15"> 
         <b>PremiumChess</b><br />Chess tournament</td>
       <td rowspan=3>01.2022 - 03.2022</td>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' width="15"> Kotlin</td>
-      <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/045e7763-4d74-4031-915e-ebf0ea6b46d7.svg?style=social" alt="wakatime"></a></td>
+      <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/045e7763-4d74-4031-915e-ebf0ea6b46d7.svg?style=social" alt="wakatime"></a></td>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Development is frozen</td>
   </tr>
   <tr>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
-      <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/a7349816-3171-4c20-b957-70e3b6275e83.svg?style=social" alt="wakatime"></a></td>
+      <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/a7349816-3171-4c20-b957-70e3b6275e83.svg?style=social" alt="wakatime"></a></td>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Development is frozen</td>
   </tr>
   <tr>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter</td>
-      <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/ccfbe3c5-b4c3-49df-a777-5127dc738651.svg?style=social" alt="wakatime"></a></td>
+      <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/ccfbe3c5-b4c3-49df-a777-5127dc738651.svg?style=social" alt="wakatime"></a></td>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Development is frozen</td>
   </tr>
     
@@ -76,7 +76,7 @@
     
       
   <tr>
-    <td rowspan=2><img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/triathlon.png' width="15"> <b>Triathlon Center</b><br />Fitness club</td>
+    <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/triathlon.png' width="15"> <b>Triathlon Center</b><br />Fitness club</td>
     <td rowspan=2>02.2022 - 05.2022</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
     <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/6290621b-ece2-4946-82d6-85749c2eded7.svg?style=social" alt="wakatime"></a></td>
@@ -84,21 +84,21 @@
   </tr>
   <tr>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' width="15"> Kotlin</td>
-    <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/d61c75fd-8fe3-423b-9d73-d4587840275f.svg?style=social" alt="wakatime"></a></td>
+    <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/d61c75fd-8fe3-423b-9d73-d4587840275f.svg?style=social" alt="wakatime"></a></td>
     <td><a href="https://play.google.com/store/apps/details?id=com.triathlon_center"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</td>
   </tr>
   
   <tr>
-    <td rowspan=3><img src='https://raw.githubusercontent.com/mobilase/mobilase/main/icons/people.club.webp' width="15"> <b>People.Club</b><br />Fitness club</td>
+    <td rowspan=3><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/people.club.webp' width="15"> <b>People.Club</b><br />Fitness club</td>
     <td>06.2021 - 05.2022</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
-    <td><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/f366ccac-89b1-40b7-a3b2-691e45f7afc4.svg?style=social" alt="wakatime"></a></td>
+    <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/f366ccac-89b1-40b7-a3b2-691e45f7afc4.svg?style=social" alt="wakatime"></a></td>
     <td><a href="https://apps.apple.com/us/app/people-club/id1538601319"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> App Store</a></td>
   </tr>
   <tr>
     <td>03.2022 - 05.2022</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' width="15"> Kotlin</td>
-    <td rowspan=2><a href="https://wakatime.com/@mobilase?rank=mobilase"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/a3e997d6-2fd1-4f4d-80ff-702be275efa2.svg?style=social" alt="wakatime"></a></td>
+    <td rowspan=2><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/a3e997d6-2fd1-4f4d-80ff-702be275efa2.svg?style=social" alt="wakatime"></a></td>
     <td rowspan=2><a href="https://play.google.com/store/apps/details?id=club.people.fitness"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</a></td>
   </tr>
   <tr>
