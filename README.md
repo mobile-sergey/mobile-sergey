@@ -25,16 +25,25 @@
   
 
   <tr>
-    <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tng.png' width="15"> <b>TNG</b><br />Tips App</td>
+    <td rowspan=2>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tng.png' width="15"> <b>TNG</b><br />Tips App</td>
     <td rowspan=2>09.2023 - now</td>
-    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
     <td>Time was not recorded</td>
-    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Prepare for App Store</td>
+    <td>
+      <a href="https://apps.apple.com/ru/app/tipandgo/id1624068011">
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> App Store</a></td>
   </tr>
   <tr>
-    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin</td>
-    <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/2218e0ac-b704-4288-b466-efcad9657254.svg?style=social" alt="wakatime"></a></td>
-    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Prepare for Google Play</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/2218e0ac-b704-4288-b466-efcad9657254.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.tip_n_go">
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</a></td>
   </tr>
 
   <tr>
