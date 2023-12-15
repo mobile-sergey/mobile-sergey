@@ -181,7 +181,8 @@ HTML                       19 hrs 50 mins  -------------------------   01.19 %
 ### Articles
 | Date | Role | Article | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
-| 09.01.2023 | Author | [Я выбрал язык программирования с помощью икигаи, коучей и рефлексии — и это сработало](https://habr.com/ru/post/708532/) | +23 | 129 | 123 |
+| 13.10.2023 | Author | [Как показать номер версии на экране загру…](https://habr.com/ru/articles/767276/) | +11 | 8 | 20 |
+| 09.01.2023 | Author | [Я выбрал язык программирования с помощью икигаи, коучей и рефлексии — и это сработало](https://habr.com/ru/post/708532/) | +23 | 139 | 123 |
 | 28.11.2022 | Author | [Android vs iOS: кто быстрее покорит Эверест?](https://habr.com/ru/article/700550/) | +34 | 22 | 24 |
 | 06.10.2022 | Author | [Прогулка по изнанке «Спортмастера»: ножками и в приложениях](https://habr.com/ru/article/691448/) | +29 | 29 | 12 |
 | 01.09.2022 | Editor | [Как мы уменьшили размер приложения ВТБ Онлайн с многомиллионной аудиторией в 2 раза](https://habr.com/ru/company/vtb/blog/685608/) | +6 | 15 | 46 |
