@@ -23,11 +23,20 @@
   </thead>
   <tbody>
   
-
+  <tr>
+    <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tng.png' width="15"> <b>Alarm+</b><br />Productivity</td>
+    <td>03.2023 - now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI</td>
+    <td><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7cf2273c-ef79-43bd-9b0b-71b9daec983d.svg?style=social" alt="wakatime"></td>
+    <td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> TestFlight</td>
+  </tr>
   <tr>
     <td rowspan=2>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tng.png' width="15"> <b>TNG</b><br />Tips App</td>
-    <td rowspan=2>09.2023 - now</td>
+    <td rowspan=2>09.2023 - 11.2023</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
     <td>Time was not recorded</td>
@@ -69,7 +78,7 @@
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Development is frozen</td>
   </tr>
   <tr>
-      <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
+      <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI</td>
       <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/a7349816-3171-4c20-b957-70e3b6275e83.svg?style=social" alt="wakatime"></a></td>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Development is frozen</td>
   </tr>
