@@ -25,7 +25,7 @@
   
   <tr>
     <td>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tng.png' width="15"> <b>Alarm+</b><br />Productivity</td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/alarm-plus.png' width="15"> <b>Alarm+</b><br />Productivity</td>
     <td>03.2023 - now</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI</td>
