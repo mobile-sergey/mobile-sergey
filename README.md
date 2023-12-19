@@ -92,16 +92,27 @@
   
       
   <tr>
-    <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/state-of-fitness.webp' width="15"> <b>State of fitness</b><br />Fitness club</td>
-    <td rowspan=2>09.2021 - now</td>
+    <td rowspan=3><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/state-of-fitness.webp' width="15"> <b>State of fitness</b><br />Fitness club</td>
+    <td rowspan=3>09.2021 - now</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
-    <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/6290621b-ece2-4946-82d6-85749c2eded7.svg?style=social" alt="wakatime"></a></td>
-    <td> <a href="https://apps.apple.com/us/app/state-of-fitness/id1585380539"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> AppStore</a></td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/6290621b-ece2-4946-82d6-85749c2eded7.svg?style=social" alt="wakatime"></a></td>
+    <td> 
+      <a href="https://apps.apple.com/us/app/state-of-fitness/id1585380539">
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> AppStore</a></td>
   </tr>
   <tr>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' width="15"> Kotlin</td>
+    <td rowspan=2>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/196c39ef-5f27-4d1c-865b-bc44243d7729.svg?style=social" alt="wakatime"></a></td>
+    <td rowspan=2>
+      <a href="https://play.google.com/store/apps/details?id=ru.statefitness">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</td>
+  </tr>
+    <tr>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width="15"> Java</td>
-    <td><a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/196c39ef-5f27-4d1c-865b-bc44243d7729.svg?style=social" alt="wakatime"></a></td>
-    <td><a href="https://play.google.com/store/apps/details?id=ru.statefitness"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</td>
   </tr>
   
 
