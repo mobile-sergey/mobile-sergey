@@ -22,7 +22,25 @@
   </tr>
   </thead>
   <tbody>
-  
+
+  <tr>
+    <td rowspan=2>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/minget.png' width="15"> <b>MinGet</b><br />Intercity taxi</td>
+    <td rowspan=2>06.2023 - now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift</td>
+    <td>Time was not recorded</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> In developing</td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin</td>
+    <td>Time was not recorded</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> In developing</td>
+  </tr>
+
   <tr>
     <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/alarm-plus.png' width="15"> <b>Alarm+</b><br />Productivity</td>
@@ -33,6 +51,7 @@
     <td>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> TestFlight</td>
   </tr>
+  
   <tr>
     <td rowspan=2>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tng.png' width="15"> <b>TNG</b><br />Tips App</td>
