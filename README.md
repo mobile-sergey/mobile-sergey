@@ -43,6 +43,17 @@
 
   <tr>
     <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tapir-tuner.jpg' width="15"> <b>Tapir Tuner</b><br />Audio Tuner & Мetronome</td>
+    <td>06.2023 - now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI</td>
+      <td>Time was not recorded</td>
+    <td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> TestFlight</td>
+  </tr>
+
+  <tr>
+    <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/alarm-plus.png' width="15"> <b>Alarm+</b><br />Productivity</td>
     <td>03.2023 - now</td>
     <td>
