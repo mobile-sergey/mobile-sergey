@@ -18,7 +18,7 @@
       <th>Period</th>
       <th>Language - Architecture</th>
       <th>Coding time</th>
-      <th style="width: 100px;">Store</th>
+      <th>Store</th>
   </tr>
   </thead>
   <tbody>
@@ -33,7 +33,7 @@
     <td>Time was not recorded</td>
     <td>
       <a href="https://apps.apple.com/ru/app/tipandgo/id1624068011">
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> App Store</a></td>
+        <div style='width: 300px;'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> App Store</a></div></td>
   </tr>
   <tr>
     <td>
