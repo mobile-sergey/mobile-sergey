@@ -18,7 +18,7 @@
       <th>Period</th>
       <th>Language - Architecture</th>
       <th>Coding time</th>
-      <th>Store</th>
+      <th style="width: 100px;">Store</th>
   </tr>
   </thead>
   <tbody>
