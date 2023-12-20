@@ -209,7 +209,7 @@
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift - MVP+Coordinator</td>
     <td>Time was not recorded</td>
     <td>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Development is frozen</td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Frozen</td>
   </tr>
   
   
@@ -224,14 +224,14 @@
         <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
           <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/045e7763-4d74-4031-915e-ebf0ea6b46d7.svg?style=social" alt="wakatime"></a></td>
       <td>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Development is frozen</td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Frozen</td>
   </tr>
   <tr>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI - MVP</td>
       <td>
         <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
           <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/a7349816-3171-4c20-b957-70e3b6275e83.svg?style=social" alt="wakatime"></a></td>
-      <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Development is frozen</td>
+      <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Frozen</td>
   </tr>
   <tr>
       <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter - MVC</td>
@@ -240,7 +240,7 @@
           <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/ccfbe3c5-b4c3-49df-a777-5127dc738651.svg?style=social" alt="wakatime"></a></td>
       <td>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15">
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Development is frozen</td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Frozen</td>
   </tr>
 
   <tr>
@@ -252,7 +252,7 @@
         <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
           <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/93cd9e07-3583-4cb1-a112-41b9a5136212.svg?style=social" alt="wakatime"></a></td>
       <td>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Development is frozen</td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Frozen</td>
   </tr>
   <tr>
       <td>12.2019 - 10.2020</td>
