@@ -43,7 +43,7 @@
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/2218e0ac-b704-4288-b466-efcad9657254.svg?style=social" alt="wakatime"></a></td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.tip_n_go">
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</a></td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google&nbsp;Play</a></td>
   </tr>
 
   <tr>
@@ -64,7 +64,7 @@
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/9cd0b519-ba31-44da-87ca-dd5e6e0f627a.svg?style=social" alt="wakatime"></a></td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=ru.vtkbank.android">
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google&nbsp;Play</td>
   </tr>
 
   <tr>
@@ -87,7 +87,7 @@
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/a3e997d6-2fd1-4f4d-80ff-702be275efa2.svg?style=social" alt="wakatime"></a></td>
     <td rowspan=2>
       <a href="https://play.google.com/store/apps/details?id=club.people.fitness">
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</a></td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google&nbsp;Play</a></td>
   </tr>
   <tr>
     <td>09.2020 - now</td>
@@ -112,7 +112,7 @@
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/d61c75fd-8fe3-423b-9d73-d4587840275f.svg?style=social" alt="wakatime"></a></td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.triathlon_center">
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google&nbsp;Play</td>
   </tr>
   
       
@@ -135,7 +135,7 @@
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/196c39ef-5f27-4d1c-865b-bc44243d7729.svg?style=social" alt="wakatime"></a></td>
     <td rowspan=2>
       <a href="https://play.google.com/store/apps/details?id=ru.statefitness">
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google&nbsp;Play</td>
   </tr>
     <tr>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width="15"> Java - MVP</td>
@@ -268,7 +268,7 @@
       <td>Time was not recorded</td>
       <td>
         <a href="https://play.google.com/store/apps/details?id=ru.electric.ec.online">
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google Play</a></td>
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Google&nbsp;Play</a></td>
   </tr>
   </tbody>
 </table>
