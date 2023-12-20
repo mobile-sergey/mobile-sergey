@@ -157,7 +157,7 @@
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin Compose - MVI</td>
     <td>Time was not recorded</td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> In developing</td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Develop</td>
   </tr>
 
   <tr>
@@ -191,14 +191,14 @@
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI - MVVM</td>
     <td>Time was not recorded</td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> In developing</td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg' width="15"> Develop</td>
   </tr>
   <tr>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin - MVVM</td>
     <td>Time was not recorded</td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> In developing</td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width="15"> Develop</td>
   </tr>
 
   <tr>
