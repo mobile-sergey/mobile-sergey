@@ -11,6 +11,10 @@
 
 ### Working projects
 
+All recorded programming time: 
+
+<a href="https://wakatime.com/@1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448"><img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448.svg?style=social" alt="Total time coded since Oct 22 2020" /></a>
+
 <table>
   <thead>
   <tr>
