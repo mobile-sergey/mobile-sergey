@@ -1,5 +1,5 @@
 ### About me
-- [ ] 🌱 15 years in IT. Now develop Android/iOS apps
+- [ ] 🌱 20 years in IT. Now 4 years develop Android/iOS apps
 - [ ] 🎯 My primary focus Android and iOS native development
 - [ ] 🎓 I want to learn all popular mobile technologies
 - [ ] 📬 You can contact me by [<img width="20px" src="https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/telegram.png">](https://t.me/mobile_sergey) or 
