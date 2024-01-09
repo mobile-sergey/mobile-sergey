@@ -210,7 +210,7 @@ All recorded programming time:
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/dlc-english.png' width="15"> <b>DLC English</b><br />Learn English</td>
     <td>03.2023&nbsp;-&nbsp;09.2023</td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP+Coordinator</td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP + Coordinator</td>
     <td>Time was not recorded</td>
     <td>
         Frozen</td>
