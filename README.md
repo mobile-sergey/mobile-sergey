@@ -165,7 +165,7 @@ All recorded programming time:
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018b39f9-80e2-4931-bf71-ed26e6eda88d.svg?style=social" alt="wakatime"></a></td>
     <td>
-      Test GooglePlay</td>
+      Test .apk</td>
   </tr>
 
   <tr>
@@ -187,7 +187,7 @@ All recorded programming time:
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVC</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-      <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7cf2273c-ef79-43bd-9b0b-71b9daec983d.svg?style=social" alt="wakatime"></a></td>
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7cf2273c-ef79-43bd-9b0b-71b9daec983d.svg?style=social" alt="wakatime"></a></td>
     <td>
         TestFlight</td>
   </tr>
@@ -198,14 +198,18 @@ All recorded programming time:
     <td rowspan=2>06.2023&nbsp;-&nbsp;now</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM</td>
-    <td>Time was not recorded</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/12b6d909-1426-4b07-a6cd-a281c24e2f6b.svg?style=social" alt="wakatime"></a></td>
     <td>
       Develop</td>
   </tr>
   <tr>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin&nbsp;-&nbsp;MVVM</td>
-    <td>Time was not recorded</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/0148714d-495b-4403-9862-bb9c83442997.svg?style=social" alt="wakatime"></a></td>
     <td>
       Develop</td>
   </tr>
