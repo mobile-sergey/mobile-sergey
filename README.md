@@ -294,7 +294,7 @@ All recorded programming time:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2020 - To: 29 February 2024
+From: 21 October 2020 - To: 01 March 2024
 
 Total Time: 1,696 hrs 40 mins
 
