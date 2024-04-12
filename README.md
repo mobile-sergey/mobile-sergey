@@ -27,11 +27,22 @@ All recorded programming time:
   </thead>
   <tbody>
 
+  <tr>
+    <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/sfm360.png' width="15"> <b>Biganto360</b><br />3D-toures</td>
+    <td>01.2024&nbsp;-&nbsp;now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin&nbsp;-&nbsp;MVI + MVVM</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018def46-5168-4a90-8e17-36edeabf6419.svg?style=social" alt="wakatime"></a></td>
+    <td>Develop</td>
+  </tr>
 
   <tr>
     <td rowspan=2>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tng.png' width="15"> <b>TNG</b><br />Tips App</td>
-    <td rowspan=2>09.2023&nbsp;-&nbsp;now</td>
+    <td rowspan=2>09.2023&nbsp;-&nbsp;01.2024</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVC</td>
     <td>Time was not recorded</td>
@@ -52,7 +63,7 @@ All recorded programming time:
 
   <tr>
     <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/norvik.webp' width="15"> <b>Norvik</b><br />Bank</td>
-    <td rowspan=2>07.2021&nbsp;-&nbsp;now</td>
+    <td rowspan=2>07.2021&nbsp;-&nbsp;01.2024</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
@@ -74,7 +85,7 @@ All recorded programming time:
   <tr>
     <td rowspan=3>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/people.club.webp' width="15"> <b>People.Club</b><br />Fitness club</td>
-    <td>06.2021&nbsp;-&nbsp;now</td>
+    <td>06.2021&nbsp;-&nbsp;01.2024</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
@@ -84,7 +95,7 @@ All recorded programming time:
         App Store</a></td>
   </tr>
   <tr>
-    <td>03.2022&nbsp;-&nbsp;now</td>
+    <td>03.2022&nbsp;-&nbsp;01.2024</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' width="15"> Kotlin&nbsp;-&nbsp;MVP</td>
     <td rowspan=2>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
@@ -94,13 +105,13 @@ All recorded programming time:
         Google&nbsp;Play</a></td>
   </tr>
   <tr>
-    <td>09.2020&nbsp;-&nbsp;now</td>
+    <td>09.2020&nbsp;-&nbsp;01.2024</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width="15"> Java&nbsp;-&nbsp;MVP</td>
   </tr>
 
   <tr>
     <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/triathlon.png' width="15"> <b>Triathlon Center</b><br />Fitness club</td>
-    <td rowspan=2>02.2022&nbsp;-&nbsp;now</td>
+    <td rowspan=2>02.2022&nbsp;-&nbsp;01.2024</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
@@ -123,7 +134,7 @@ All recorded programming time:
   <tr>
     <td rowspan=3>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/state-of-fitness.webp' width="15"> <b>State of fitness</b><br />Fitness club</td>
-    <td rowspan=3>09.2021&nbsp;-&nbsp;now</td>
+    <td rowspan=3>09.2021&nbsp;-&nbsp;01.2024</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
@@ -160,7 +171,7 @@ All recorded programming time:
   </tr>
   <tr>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin Compose&nbsp;-&nbsp;MVI</td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg' width="15"> Kotlin Compose&nbsp;-&nbsp;MVI</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018b39f9-80e2-4931-bf71-ed26e6eda88d.svg?style=social" alt="wakatime"></a></td>
@@ -184,7 +195,7 @@ All recorded programming time:
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/alarm-plus.png' width="15"> <b>Alarm+</b><br />Productivity</td>
     <td>03.2023&nbsp;-&nbsp;now</td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVC</td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVC</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7cf2273c-ef79-43bd-9b0b-71b9daec983d.svg?style=social" alt="wakatime"></a></td>
@@ -197,7 +208,7 @@ All recorded programming time:
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tindev.png' width="15"> <b>TinDev</b><br />Events & dating</td>
     <td rowspan=2>06.2023&nbsp;-&nbsp;now</td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM</td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/12b6d909-1426-4b07-a6cd-a281c24e2f6b.svg?style=social" alt="wakatime"></a></td>
@@ -240,7 +251,7 @@ All recorded programming time:
         Frozen</td>
   </tr>
   <tr>
-      <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVP</td>
+      <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVP</td>
       <td>
         <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
           <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/a7349816-3171-4c20-b957-70e3b6275e83.svg?style=social" alt="wakatime"></a></td>
