@@ -305,16 +305,16 @@ All recorded programming time:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2020 - To: 11 April 2024
+From: 21 October 2020 - To: 12 April 2024
 
-Total Time: 1,723 hrs 10 mins
+Total Time: 1,727 hrs 17 mins
 
-Java                       811 hrs 23 mins ████████████-------------   47.09 %
-XML                        262 hrs 39 mins ████---------------------   15.24 %
-Swift                      180 hrs 51 mins ███----------------------   10.50 %
-Kotlin                     134 hrs 10 mins ██-----------------------   07.79 %
-Cocoa                      54 hrs 1 min    █------------------------   03.14 %
-Groovy                     47 hrs 49 mins  █------------------------   02.78 %
+Java                       811 hrs 23 mins ████████████-------------   46.97 %
+XML                        262 hrs 39 mins ████---------------------   15.21 %
+Swift                      180 hrs 51 mins ███----------------------   10.47 %
+Kotlin                     138 hrs 17 mins ██-----------------------   08.01 %
+Cocoa                      54 hrs 1 min    █------------------------   03.13 %
+Groovy                     47 hrs 49 mins  █------------------------   02.77 %
 C++                        38 hrs 17 mins  █------------------------   02.22 %
 Other                      35 hrs 19 mins  █------------------------   02.05 %
 C                          33 hrs 36 mins  -------------------------   01.95 %
