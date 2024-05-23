@@ -141,7 +141,7 @@ All recorded programming time:
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/6290621b-ece2-4946-82d6-85749c2eded7.svg?style=social" alt="wakatime"></a></td>
     <td> 
       <a href="https://apps.apple.com/us/app/state-of-fitness/id1585380539">
-        AppStore</a></td>
+        App Store</a></td>
   </tr>
   <tr>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' width="15"> Kotlin&nbsp;-&nbsp;MVP</td>
@@ -282,7 +282,7 @@ All recorded programming time:
       <td>Time was not recorded</td>
       <td>
         <a href="https://apps.apple.com/ru/app/ec-online/id1533037181">
-          AppStore</a></td>
+          App Store</a></td>
   </tr>
   <tr>
       <td>08.2019&nbsp;-&nbsp;03.2020</td>
