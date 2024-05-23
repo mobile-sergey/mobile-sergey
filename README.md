@@ -307,7 +307,7 @@ All recorded programming time:
 ```txt
 From: 21 October 2020 - To: 21 May 2024
 
-Total Time: 1,807 hrs 8 mins
+Total Time: 1,807 hrs 5 mins
 
 Java                       819 hrs 11 mins ███████████--------------   45.33 %
 XML                        268 hrs 58 mins ████---------------------   14.88 %
