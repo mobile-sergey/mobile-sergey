@@ -295,34 +295,6 @@ All recorded programming time:
   </tbody>
 </table>
 
-### Statistics
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-sergey&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=mobile-sergey&langs_count=10&layout=compact&count_private=true&hide_title=true&exclude_repo=HellCat,SnakeShift,tceh-android,start-android,javarush-android)
-
-[<img src="https://github-readme-stats.vercel.app/api?username=mobile-sergey&count_private=true&hide_title=true&show_icons=true" width="400"/>](https://github-readme-stats.vercel.app/api?username=mobile-sergey&count_private=true&hide_title=true&show_icons=true)
-
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=mobile-sergey" width="400"/>](https://github-readme-streak-stats.herokuapp.com/?user=mobile-sergey)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 21 October 2020 - To: 21 May 2024
-
-Total Time: 1,807 hrs 5 mins
-
-Java                       819 hrs 11 mins ███████████--------------   45.33 %
-XML                        268 hrs 58 mins ████---------------------   14.88 %
-Swift                      188 hrs 36 mins ███----------------------   10.44 %
-Kotlin                     183 hrs 31 mins ███----------------------   10.16 %
-Cocoa                      54 hrs 1 min    █------------------------   02.99 %
-Groovy                     53 hrs 13 mins  █------------------------   02.95 %
-C++                        38 hrs 25 mins  █------------------------   02.13 %
-Other                      35 hrs 22 mins  -------------------------   01.96 %
-C                          33 hrs 38 mins  -------------------------   01.86 %
-HTML                       19 hrs 50 mins  -------------------------   01.10 %
-```
-
-<!--END_SECTION:waka-->
-
 ### Articles
 | Date | Role | Article | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
@@ -340,10 +312,6 @@ HTML                       19 hrs 50 mins  -------------------------   01.10 %
 | 02.12.2018 | Author | [Начать с React и Bootstrap за 2 дня. День №1](https://habr.com/ru/post/431826/) | +3 | 178 | 44 |
 | 30.10.2018 | Blogger | [Первый в России робот-завод и при чём тут колбаса?](https://habr.com/ru/post/428167/) | +37 | 30 | 122 |
 | 09.03.2015 | Author | [Оптимизация денежных расходов (пересчет в часы и обратно)](https://habr.com/ru/post/252543/) | +13 | 216 | 39 |
-
-### iOS Skills Matrix
-
-<img width="742" alt="ios" src="https://user-images.githubusercontent.com/1146694/216974125-c8602a41-0c73-4ca2-b0b5-365557c346b6.png">
 
 ### Visit Statistics
 Restarted 08.06.2023
