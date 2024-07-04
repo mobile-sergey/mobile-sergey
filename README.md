@@ -207,7 +207,7 @@ All recorded programming time:
     <td>03.2023</td>
     <td>now</td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVC->TCA->MVVM</td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;TCA -> MVVM</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7cf2273c-ef79-43bd-9b0b-71b9daec983d.svg?style=social" alt="wakatime"></a></td>
