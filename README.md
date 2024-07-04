@@ -41,6 +41,80 @@ All recorded programming time:
     <td><a href="https://play.google.com/store/apps/details?id=ru.biganto.biganto360">Google Play</a></td>
   </tr>
 
+
+   <tr>
+    <td rowspan=2>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/minget.png' width="15"> <b>MinGet</b><br />Intercity taxi</td>
+    <td rowspan=2>06.2023</td>
+    <td rowspan=2>now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVM</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018b3f03-eb24-413f-8b47-8da6d5404661.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      TestFlight</td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg' width="15"> Kotlin Compose&nbsp;-&nbsp;MVI</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018b39f9-80e2-4931-bf71-ed26e6eda88d.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      Test .apk</td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tapir-tuner.jpg' width="15"> <b>Tapir Tuner</b><br />Audio Tuner & Мetronome</td>
+    <td>06.2023</td>
+    <td>now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
+    <td>Time was not recorded</td>
+    <td>
+        <a href="https://apps.apple.com/ru/app/tapir-tuner/id6483937309">App Store</a></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/alarm-plus.png' width="15"> <b>Alarm+</b><br />Productivity</td>
+    <td>03.2023</td>
+    <td>now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;TCA -> MVVM</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7cf2273c-ef79-43bd-9b0b-71b9daec983d.svg?style=social" alt="wakatime"></a></td>
+    <td>
+        TestFlight</td>
+  </tr>
+
+  <tr>
+    <td rowspan=2>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tindev.png' width="15"> <b>TinDev</b><br />Events & dating</td>
+    <td rowspan=2>06.2023</td>
+    <td rowspan=2>now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/12b6d909-1426-4b07-a6cd-a281c24e2f6b.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      Develop</td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin&nbsp;-&nbsp;MVVM</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/0148714d-495b-4403-9862-bb9c83442997.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      Develop</td>
+  </tr>
+  
+
   <tr>
     <td rowspan=2>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tng.png' width="15"> <b>TNG</b><br />Tips App</td>
@@ -164,79 +238,7 @@ All recorded programming time:
     <tr>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width="15"> Java&nbsp;-&nbsp;MVP</td>
   </tr>
-  
 
-  <tr>
-    <td rowspan=2>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/minget.png' width="15"> <b>MinGet</b><br />Intercity taxi</td>
-    <td rowspan=2>06.2023</td>
-    <td rowspan=2>now</td>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVM</td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018b3f03-eb24-413f-8b47-8da6d5404661.svg?style=social" alt="wakatime"></a></td>
-    <td>
-      TestFlight</td>
-  </tr>
-  <tr>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg' width="15"> Kotlin Compose&nbsp;-&nbsp;MVI</td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018b39f9-80e2-4931-bf71-ed26e6eda88d.svg?style=social" alt="wakatime"></a></td>
-    <td>
-      Test .apk</td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tapir-tuner.jpg' width="15"> <b>Tapir Tuner</b><br />Audio Tuner & Мetronome</td>
-    <td>06.2023</td>
-    <td>now</td>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
-    <td>Time was not recorded</td>
-    <td>
-        <a href="https://apps.apple.com/ru/app/tapir-tuner/id6483937309">App Store</a></td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/alarm-plus.png' width="15"> <b>Alarm+</b><br />Productivity</td>
-    <td>03.2023</td>
-    <td>now</td>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;TCA -> MVVM</td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7cf2273c-ef79-43bd-9b0b-71b9daec983d.svg?style=social" alt="wakatime"></a></td>
-    <td>
-        TestFlight</td>
-  </tr>
-
-  <tr>
-    <td rowspan=2>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tindev.png' width="15"> <b>TinDev</b><br />Events & dating</td>
-    <td rowspan=2>06.2023</td>
-    <td rowspan=2>now</td>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM</td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/12b6d909-1426-4b07-a6cd-a281c24e2f6b.svg?style=social" alt="wakatime"></a></td>
-    <td>
-      Develop</td>
-  </tr>
-  <tr>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin&nbsp;-&nbsp;MVVM</td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/0148714d-495b-4403-9862-bb9c83442997.svg?style=social" alt="wakatime"></a></td>
-    <td>
-      Develop</td>
-  </tr>
 
   <tr>
     <td>
