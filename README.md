@@ -65,19 +65,6 @@ All recorded programming time:
       Test .apk</td>
   </tr>
 
-  <tr>
-    <td>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tapir-tuner.jpg' width="15"> <b>Tapir Tuner</b><br />Audio Tuner & Мetronome</td>
-    <td>06.2023</td>
-    <td>09.2024</td>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7376ca5e-faa3-4994-8be8-c6e007c8e97e.svg?style=social" alt="wakatime"></a></td>
-    <td>
-        <a href="https://apps.apple.com/ru/app/tapir-tuner/id6483937309">App Store</a></td>
-  </tr>
 
   <tr>
     <td>
@@ -92,6 +79,7 @@ All recorded programming time:
     <td>
         TestFlight</td>
   </tr>
+
 
   <tr>
     <td rowspan=2>
@@ -114,6 +102,21 @@ All recorded programming time:
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/0148714d-495b-4403-9862-bb9c83442997.svg?style=social" alt="wakatime"></a></td>
     <td>
       Develop</td>
+  </tr>
+
+  
+  <tr>
+    <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tapir-tuner.jpg' width="15"> <b>Tapir Tuner</b><br />Audio Tuner & Мetronome</td>
+    <td>06.2023</td>
+    <td>09.2024</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7376ca5e-faa3-4994-8be8-c6e007c8e97e.svg?style=social" alt="wakatime"></a></td>
+    <td>
+        <a href="https://apps.apple.com/ru/app/tapir-tuner/id6483937309">App Store</a></td>
   </tr>
   
 
@@ -139,6 +142,7 @@ All recorded programming time:
       <a href="https://play.google.com/store/apps/details?id=com.tip_n_go">
         Google&nbsp;Play</a></td>
   </tr>
+  
 
   <tr>
     <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/norvik.webp' width="15"> <b>Norvik</b><br />Bank</td>
@@ -161,6 +165,7 @@ All recorded programming time:
       <a href="https://play.google.com/store/apps/details?id=ru.vtkbank.android">
         Google&nbsp;Play</td>
   </tr>
+
 
   <tr>
     <td rowspan=3>
@@ -191,6 +196,7 @@ All recorded programming time:
     <td>01.2024</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width="15"> Java&nbsp;-&nbsp;MVP</td>
   </tr>
+
 
   <tr>
     <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/triathlon.png' width="15"> <b>Triathlon Center</b><br />Fitness club</td>
@@ -283,6 +289,7 @@ All recorded programming time:
           <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/ccfbe3c5-b4c3-49df-a777-5127dc738651.svg?style=social" alt="wakatime"></a></td>
       <td>Frozen</td>
   </tr>
+  
 
   <tr>
       <td rowspan=3><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/ec-online.webp' width="15"> <b>EC-online</b><br />Electrical shop</td>
