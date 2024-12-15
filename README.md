@@ -32,7 +32,7 @@ All recorded programming time:
     <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/sfm360.png' width="15"> <b>Biganto360</b><br />3D-toures</td>
     <td>01.2024</td>
-    <td>now</td>
+    <td>10.2024</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin&nbsp;-&nbsp;MVI + MVVM</td>
     <td>
@@ -69,7 +69,7 @@ All recorded programming time:
     <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tapir-tuner.jpg' width="15"> <b>Tapir Tuner</b><br />Audio Tuner & Мetronome</td>
     <td>06.2023</td>
-    <td>now</td>
+    <td>09.2024</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
     <td>
