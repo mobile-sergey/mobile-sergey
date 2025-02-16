@@ -30,6 +30,20 @@ All recorded programming time:
 
   <tr>
     <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/ya.eda.png' width="15"> <b>Яндекс Еда</b><br />Food Delivery</td>
+    <td>10.2024</td>
+    <td>03.2025</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//kotlin/kotlin-original.svg' width="15"> Kotlin&nbsp;-&nbsp;MVVM</td>
+    <td>
+      Time was not recorded
+    </td>
+    <td><a href="https://play.google.com/store/apps/details?id=ru.foodfox.client">Google Play</a></td>
+  </tr>
+  
+
+  <tr>
+    <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/sfm360.png' width="15"> <b>Biganto360</b><br />3D-toures</td>
     <td>01.2024</td>
     <td>10.2024</td>
