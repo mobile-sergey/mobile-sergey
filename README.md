@@ -31,7 +31,7 @@ All recorded programming time:
 
   <tr>
     <td>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/sound-trainer.png' width="15"> <b>Sound Trainer</b><br />App for disabled children
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/sound-trainer.png' width="15"> <b>Sound Trainer</b><br />For disabled children
     </td>
     <td>03.2025</td>
     <td>03.2025</td>
