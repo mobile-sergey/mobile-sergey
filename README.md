@@ -48,6 +48,37 @@ All recorded programming time:
     </td>
   </tr>
 
+
+  <tr>
+    <td rowspan=2>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/wish.png' width="15"> <b>Wish/БериЗонт</b><br />Umbrella rental app</td>
+    <td>03.2025</td>
+    <td>03.2025</td>    
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg' width="15"> Kotlin Compose&nbsp;-&nbsp;WebView
+    </td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/f738b22c-5302-403d-a4e9-8bdd194ecf66.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      Test.apk
+    </td>
+  </tr>
+  <tr>
+    <td>10.2024</td>
+    <td>11.2024</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;WebView
+    </td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/3d354c8b-fbdd-4cbb-8816-cb146f35416f.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      TestFlight
+    </td>
+  </tr>
+  
+
   <tr>
     <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/ya.eda.png' width="15"> <b>Яндекс Еда</b><br />Food Delivery</td>
