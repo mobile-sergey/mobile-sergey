@@ -184,6 +184,48 @@ All recorded programming time:
     <td>
         <a href="https://apps.apple.com/ru/app/tapir-tuner/id6483937309">App Store</a></td>
   </tr>
+
+
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tr.on.png' width="15"> <b>TR.ON</b><br />Pet store app</td>
+    <td>02.2024</td>
+    <td>now</td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter&nbsp;-&nbsp;MVC</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/514135e8-1cdc-4a90-b08e-9dcd8ed68e53.svg?style=social" alt="wakatime">
+      </a>
+    </td>
+    <td>Develop</td>
+  </tr>
+
+
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/fbh.png' width="15"> <b>FBH</b><br />Financial app</td>
+    <td>12.2023</td>
+    <td>12.2024</td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter&nbsp;-&nbsp;MVC</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7b224ab3-ae41-4de2-bcff-132763a8f9b9.svg?style=social" alt="wakatime">
+      </a>
+    </td>
+    <td>Develop</td>
+  </tr>
+
+
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/declarations.png' width="15"> <b>Declarations</b><br />Declaration app</td>
+    <td>02.2024</td>
+    <td>06.2024</td>
+    <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter&nbsp;-&nbsp;MVC</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/5f140146-dd84-43e5-8310-438a7fbe69de.svg?style=social" alt="wakatime">
+      </a>
+    </td>
+    <td>Develop</td>
+  </tr>
   
 
   <tr>
