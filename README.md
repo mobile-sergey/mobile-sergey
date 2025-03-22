@@ -28,6 +28,26 @@ All recorded programming time:
   </thead>
   <tbody>
 
+
+  <tr>
+    <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/sound-trainer.png' width="15"> <b>Sound Trainer</b><br />App for disabled children
+    </td>
+    <td>03.2025</td>
+    <td>03.2025</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM
+    </td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/5359bed4-8553-4f8e-a9cc-512b6a7b5755.svg?style=social" alt="wakatime">
+      </a>
+    </td>
+    <td>
+      TestFlight
+    </td>
+  </tr>
+
   <tr>
     <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/ya.eda.png' width="15"> <b>Яндекс Еда</b><br />Food Delivery</td>
@@ -91,7 +111,8 @@ All recorded programming time:
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/7cf2273c-ef79-43bd-9b0b-71b9daec983d.svg?style=social" alt="wakatime"></a></td>
     <td>
-        TestFlight</td>
+        TestFlight
+    </td>
   </tr>
 
 
