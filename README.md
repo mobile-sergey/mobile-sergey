@@ -34,7 +34,7 @@ All recorded programming time:
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/sound-trainer.png' width="15"> <b>Sound Trainer</b><br />For disabled children
     </td>
     <td>03.2025</td>
-    <td>03.2025</td>
+    <td>now</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM
     </td>
@@ -44,7 +44,7 @@ All recorded programming time:
       </a>
     </td>
     <td>
-      TestFlight
+      Develop
     </td>
   </tr>
 
@@ -53,7 +53,7 @@ All recorded programming time:
     <td rowspan=2>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/wish.png' width="15"> <b>Wish/БериЗонт</b><br />Umbrella rental app</td>
     <td>03.2025</td>
-    <td>03.2025</td>    
+    <td>now</td>    
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg' width="15"> Kotlin Compose&nbsp;-&nbsp;WebView
     </td>
@@ -61,7 +61,7 @@ All recorded programming time:
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/f738b22c-5302-403d-a4e9-8bdd194ecf66.svg?style=social" alt="wakatime"></a></td>
     <td>
-      Test.apk
+      Develop
     </td>
   </tr>
   <tr>
