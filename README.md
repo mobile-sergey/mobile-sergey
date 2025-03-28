@@ -34,7 +34,7 @@ All recorded programming time:
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/sound-trainer.png' width="15"> <b>Sound Trainer</b><br />For disabled children
     </td>
     <td>03.2025</td>
-    <td>now</td>
+    <td>03.2025</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM
     </td>
@@ -44,7 +44,7 @@ All recorded programming time:
       </a>
     </td>
     <td>
-      Develop
+      TestFlight
     </td>
   </tr>
 
