@@ -31,7 +31,7 @@ All recorded programming time:
 
   <tr>
     <td>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/sound-trainer.png' width="15"> <b>Sound Trainer</b><br />For disabled children
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/voice-to-stars.png' width="15"> <b>Voice to stars</b><br />For disabled children
     </td>
     <td>03.2025</td>
     <td>03.2025</td>
@@ -173,7 +173,7 @@ All recorded programming time:
   
   <tr>
     <td>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tapir-tuner.jpg' width="15"> <b>Tapir Tuner</b><br />Audio Tuner & Мetronome</td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tapir-tuner.png' width="15"> <b>Tapir Tuner</b><br />Audio Tuner & Мetronome</td>
     <td>06.2023</td>
     <td>09.2024</td>
     <td>
@@ -253,7 +253,7 @@ All recorded programming time:
   
 
   <tr>
-    <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/norvik.webp' width="15"> <b>Norvik</b><br />Bank</td>
+    <td rowspan=2><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/norvik.png' width="15"> <b>Norvik</b><br />Bank</td>
     <td rowspan=2>07.2021</td>
     <td rowspan=2>01.2024</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
@@ -277,7 +277,7 @@ All recorded programming time:
 
   <tr>
     <td rowspan=3>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/people.club.webp' width="15"> <b>People.Club</b><br />Fitness club</td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/people.club.png' width="15"> <b>People.Club</b><br />Fitness club</td>
     <td>06.2021</td>
     <td>01.2024</td>    
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
@@ -331,7 +331,7 @@ All recorded programming time:
       
   <tr>
     <td rowspan=3>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/state-of-fitness.webp' width="15"> <b>State of fitness</b><br />Fitness club</td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/state-of-fitness.png' width="15"> <b>State of fitness</b><br />Fitness club</td>
     <td rowspan=3>09.2021</td>
     <td rowspan=3>01.2024</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP</td>
@@ -400,7 +400,7 @@ All recorded programming time:
   
 
   <tr>
-      <td rowspan=3><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/ec-online.webp' width="15"> <b>EC-online</b><br />Electrical shop</td>
+      <td rowspan=3><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/ec-online.png' width="15"> <b>EC-online</b><br />Electrical shop</td>
       <td>01.2022</td>
       <td>03.2022</td>
       <td>
