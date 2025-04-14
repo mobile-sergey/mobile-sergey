@@ -203,7 +203,7 @@ All recorded programming time:
   <tr>
     <td><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/fbh.png' width="15"> <b>FBH</b><br />Financial app</td>
     <td>12.2023</td>
-    <td>12.2024</td>
+    <td>now</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter&nbsp;-&nbsp;MVC</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
@@ -217,7 +217,7 @@ All recorded programming time:
   <tr>
     <td><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/declarations.png' width="15"> <b>Declarations</b><br />Declaration app</td>
     <td>02.2024</td>
-    <td>06.2024</td>
+    <td>now</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter&nbsp;-&nbsp;MVC</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
