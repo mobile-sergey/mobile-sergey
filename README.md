@@ -34,7 +34,7 @@ All recorded programming time:
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/voice-to-stars.png' width="15"> <b>Voice to stars</b><br />For disabled children
     </td>
     <td>03.2025</td>
-    <td>03.2025</td>
+    <td>now</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM
     </td>
