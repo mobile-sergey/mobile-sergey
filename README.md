@@ -31,7 +31,7 @@ All recorded programming time:
 
   <tr>
     <td>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/flat.png' width="15"> <b>Флат Партнер</b><br />Audio/video calls, messaging
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/flat.png' width="15"> <b>Флат Партнер</b><br />Audio/video, messaging
     </td>
     <td>04.2025</td>
     <td>now</td>
