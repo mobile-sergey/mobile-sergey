@@ -31,10 +31,30 @@ All recorded programming time:
 
   <tr>
     <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/flat.png' width="15"> <b>Флат Партнер</b><br />Audio/video calls, messaging
+    </td>
+    <td>04.2025</td>
+    <td>now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVMRA
+    </td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/5359bed4-8553-4f8e-a9cc-512b6a7b5755.svg?style=social" alt="wakatime">
+      </a>
+    </td>
+    <td>
+        <a href="https://apps.apple.com/ru/app/флат-партнер/id1670121488">App Store</a>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/voice-to-stars.png' width="15"> <b>Voice to stars</b><br />For disabled children
     </td>
     <td>03.2025</td>
-    <td>now</td>
+    <td>05.2025</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM
     </td>
@@ -53,7 +73,7 @@ All recorded programming time:
     <td rowspan=2>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/wish.png' width="15"> <b>Wish/БериЗонт</b><br />Umbrella rental app</td>
     <td>03.2025</td>
-    <td>now</td>    
+    <td>05.2025</td>    
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg' width="15"> Kotlin Compose&nbsp;-&nbsp;WebView
     </td>
