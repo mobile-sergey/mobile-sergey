@@ -40,7 +40,7 @@ All recorded programming time:
     </td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/5359bed4-8553-4f8e-a9cc-512b6a7b5755.svg?style=social" alt="wakatime">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/01d3eb1c-028f-4107-b55a-60dbae2b2f67.svg?style=social" alt="wakatime">
       </a>
     </td>
     <td>
