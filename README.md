@@ -128,10 +128,10 @@ All recorded programming time:
 
 
    <tr>
-    <td rowspan=2>
+    <td rowspan=3>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/minget.png' width="15"> <b>MinGet</b><br />Intercity taxi</td>
-    <td rowspan=2>06.2023</td>
-    <td rowspan=2>now</td>
+    <td rowspan=3>06.2023</td>
+    <td rowspan=3>now</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVM</td>
     <td>
@@ -149,7 +149,15 @@ All recorded programming time:
     <td>
       Test .apk</td>
   </tr>
-
+  <tr>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg' width="15"> Go&nbsp;-&nbsp;Microservices</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/74090ccd-586e-4af2-9b1e-141f91e6eba9.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      Test server</td>
+  </tr>
 
   <tr>
     <td>
