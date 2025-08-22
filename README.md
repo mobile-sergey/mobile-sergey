@@ -163,7 +163,7 @@ All recorded programming time:
     <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/alarm-plus.png' width="15"> <b>Alarm+</b><br />Productivity</td>
     <td>03.2023</td>
-    <td>now</td>
+    <td>07.2025</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;TCA -> MVVM</td>
     <td>
