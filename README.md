@@ -31,6 +31,25 @@ All recorded programming time:
 
   <tr>
     <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/yaclubs.png' width="15"> <b>YaClubs</b><br />Clubs, events, society</td>
+    <td>08.2025</td>
+    <td>11.2025</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVM
+    </td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/5e9b563c-4b15-4994-bc5d-2da625991fa2.svg?style=social" alt="wakatime">
+      </a>
+    </td>
+    <td>
+        <a href="https://testflight.apple.com/join/uJeyFhS6">Test Flight</a>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/flat.png' width="15"> <b>Флат Партнер</b><br />Audio/video, messaging
     </td>
     <td>04.2025</td>
