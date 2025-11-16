@@ -232,7 +232,7 @@ All recorded programming time:
     <td rowspan=2>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tindev.png' width="15"> <b>TinDev</b><br />Events & dating</td>
     <td rowspan=2>06.2023</td>
-    <td rowspan=2>now</td>
+    <td rowspan=2>07.2025</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM</td>
     <td>
@@ -270,7 +270,7 @@ All recorded programming time:
   <tr>
     <td><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/tr.on.png' width="15"> <b>TR.ON</b><br />Pet store app</td>
     <td>02.2024</td>
-    <td>now</td>
+    <td>07.2025</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter&nbsp;-&nbsp;MVC</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
@@ -284,7 +284,7 @@ All recorded programming time:
   <tr>
     <td><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/fbh.png' width="15"> <b>FBH</b><br />Financial app</td>
     <td>12.2023</td>
-    <td>now</td>
+    <td>07.2025</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter&nbsp;-&nbsp;MVC</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
@@ -298,7 +298,7 @@ All recorded programming time:
   <tr>
     <td><img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/declarations.png' width="15"> <b>Declarations</b><br />Declaration app</td>
     <td>02.2024</td>
-    <td>now</td>
+    <td>07.2025</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter&nbsp;-&nbsp;MVC</td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
