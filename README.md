@@ -30,6 +30,40 @@ All recorded programming time:
 
 
   <tr>
+    <td rowspan=3>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/posture.png' width="15"> <b>Posture</b><br />AI posture correction</td>
+    <td rowspan=3>10.2025</td>
+    <td rowspan=3>now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg' width="15"> Kotlin Multiplatform
+    </td>
+    <td rowspan=3>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/d16c455d-40db-4199-8329-5544ba11b38d.svg?style=social" alt="wakatime">
+      </a>
+    </td>
+    <td>
+      Develop
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVM
+    </td>
+    <td>
+        <a href="https://testflight.apple.com/join/8AN2F5GC">TestFlight</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' width="15"> Kotlin&nbsp;-&nbsp;MVI
+    </td>
+    <td>
+        Test.apk
+    </td>
+  </tr>
+
+  <tr>
     <td>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/yaclubs.png' width="15"> <b>YaClubs</b><br />Clubs, events, society</td>
     <td>08.2025</td>
@@ -43,7 +77,7 @@ All recorded programming time:
       </a>
     </td>
     <td>
-        <a href="https://testflight.apple.com/join/uJeyFhS6">Test Flight</a>
+        <a href="https://testflight.apple.com/join/uJeyFhS6">TestFlight</a>
     </td>
   </tr>
 
