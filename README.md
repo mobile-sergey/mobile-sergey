@@ -69,7 +69,7 @@ All recorded programming time:
     <td>08.2025</td>
     <td>11.2025</td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVM
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM
     </td>
     <td>
       <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
