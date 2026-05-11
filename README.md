@@ -53,7 +53,7 @@ All recorded programming time:
     <td rowspan=3>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/posture.png' width="15"> <b>Posture</b><br />AI posture correction</td>
     <td rowspan=3>10.2025</td>
-    <td rowspan=3>now</td>
+    <td rowspan=3>04.2026</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg' width="15"> Kotlin Multiplatform
     </td>
