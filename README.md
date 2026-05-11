@@ -49,8 +49,6 @@ All recorded programming time:
   </tr>
 
 
-
-
    <tr>
     <td rowspan=3>
       <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/minget.png' width="15"> <b>MinGet</b><br />Intercity taxi</td>
@@ -81,26 +79,6 @@ All recorded programming time:
         <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/74090ccd-586e-4af2-9b1e-141f91e6eba9.svg?style=social" alt="wakatime"></a></td>
     <td>
       Test server</td>
-  </tr>
-
-
-<tr>
-    <td>
-      <b>Sound tabs</b><br />Guitar staff app
-    </td>
-    <td>12.2025</td>
-    <td>12.2025</td>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM
-    </td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/d4a05fed-9383-4330-8c4d-ed31ca90e5fd.svg?style=social" alt="wakatime">
-      </a>
-    </td>
-    <td>
-      TestFlight
-    </td>
   </tr>
 
 
@@ -137,6 +115,27 @@ All recorded programming time:
         Test.apk
     </td>
   </tr>
+
+
+<tr>
+    <td>
+      <b>Sound tabs</b><br />Guitar staff app
+    </td>
+    <td>12.2025</td>
+    <td>12.2025</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg' width="15"> SwiftUI&nbsp;-&nbsp;MVVM
+    </td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/d4a05fed-9383-4330-8c4d-ed31ca90e5fd.svg?style=social" alt="wakatime">
+      </a>
+    </td>
+    <td>
+      TestFlight
+    </td>
+  </tr>
+
 
   <tr>
     <td>
