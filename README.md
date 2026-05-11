@@ -29,6 +29,61 @@ All recorded programming time:
   <tbody>
 
 
+  <tr>
+    <td>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/flat.png' width="15"> <b>Флат Партнер</b><br />Audio/video, messaging
+    </td>
+    <td>04.2025</td>
+    <td>now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVMRA
+    </td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/01d3eb1c-028f-4107-b55a-60dbae2b2f67.svg?style=social" alt="wakatime">
+      </a>
+    </td>
+    <td>
+        <a href="https://apps.apple.com/ru/app/флат-партнер/id1670121488">App Store</a>
+    </td>
+  </tr>
+
+
+
+
+   <tr>
+    <td rowspan=3>
+      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/minget.png' width="15"> <b>MinGet</b><br />Intercity taxi</td>
+    <td rowspan=3>06.2023</td>
+    <td rowspan=3>now</td>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVM</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018b3f03-eb24-413f-8b47-8da6d5404661.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      TestFlight</td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg' width="15"> Kotlin Compose&nbsp;-&nbsp;MVI</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018b39f9-80e2-4931-bf71-ed26e6eda88d.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      Test .apk</td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg' width="15"> Go&nbsp;-&nbsp;Microservices</td>
+    <td>
+      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
+        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/74090ccd-586e-4af2-9b1e-141f91e6eba9.svg?style=social" alt="wakatime"></a></td>
+    <td>
+      Test server</td>
+  </tr>
+
+
 <tr>
     <td>
       <b>Sound tabs</b><br />Guitar staff app
@@ -98,26 +153,6 @@ All recorded programming time:
     </td>
     <td>
         <a href="https://testflight.apple.com/join/uJeyFhS6">TestFlight</a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/flat.png' width="15"> <b>Флат Партнер</b><br />Audio/video, messaging
-    </td>
-    <td>04.2025</td>
-    <td>now</td>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVMRA
-    </td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/01d3eb1c-028f-4107-b55a-60dbae2b2f67.svg?style=social" alt="wakatime">
-      </a>
-    </td>
-    <td>
-        <a href="https://apps.apple.com/ru/app/флат-партнер/id1670121488">App Store</a>
     </td>
   </tr>
 
@@ -199,38 +234,6 @@ All recorded programming time:
     <td><a href="https://play.google.com/store/apps/details?id=ru.biganto.biganto360">Google Play</a></td>
   </tr>
 
-
-   <tr>
-    <td rowspan=3>
-      <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/minget.png' width="15"> <b>MinGet</b><br />Intercity taxi</td>
-    <td rowspan=3>06.2023</td>
-    <td rowspan=3>now</td>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVVM</td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018b3f03-eb24-413f-8b47-8da6d5404661.svg?style=social" alt="wakatime"></a></td>
-    <td>
-      TestFlight</td>
-  </tr>
-  <tr>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg' width="15"> Kotlin Compose&nbsp;-&nbsp;MVI</td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/018b39f9-80e2-4931-bf71-ed26e6eda88d.svg?style=social" alt="wakatime"></a></td>
-    <td>
-      Test .apk</td>
-  </tr>
-  <tr>
-    <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg' width="15"> Go&nbsp;-&nbsp;Microservices</td>
-    <td>
-      <a href="https://wakatime.com/@mobile_sergey?rank=mobile_sergey">
-        <img src="https://wakatime.com/badge/user/1e9e88d1-e4fc-4374-a0f0-7acbdf9d8448/project/74090ccd-586e-4af2-9b1e-141f91e6eba9.svg?style=social" alt="wakatime"></a></td>
-    <td>
-      Test server</td>
-  </tr>
 
   <tr>
     <td>
