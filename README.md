@@ -536,9 +536,10 @@ All recorded programming time:
 </table>
 
 ### Articles
-Updated 13.12.2025
+Updated 12.07.2026
 | Date | Role | Article | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/like.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/bookmark.png' width="15"> | <img src='https://raw.githubusercontent.com/mobile-sergey/mobile-sergey/main/icons/chat.png' width="15"> |
 | --- | --- | --- | --- | --- | --- |
+| 23.03.2026 | Author | [Почему я перестал ходить на созвоны, или MWS TeamStream в примерах](https://habr.com/ru/companies/ru_mts/articles/1012634/) | +22 | 9 | 27 |
 | 05.12.2025 | Author | [Теперь Хабр может объяснить, что это за код](https://habr.com/ru/companies/habr/articles/973170/) | +118 | 71 | 117 |
 | 13.10.2023 | Author | [Как показать номер версии на экране загру…](https://habr.com/ru/articles/767276/) | +11 | 10 | 20 |
 | 09.01.2023 | Author | [Я выбрал язык программирования с помощью икигаи, коучей и рефлексии — и это сработало](https://habr.com/ru/post/708532/) | +22 | 153 | 125 |
